@@ -20,7 +20,7 @@ Victor Rubem Castilho Campos – RM87534 
 
  Instruções de como Rodar o Projeto - node-red
  
-É necessario pegar as API disponibilizadas no arquivo - Informação_Fluxo_Node-red
+É necessario pegar as API disponibilizadas no arquivo - Informações_Fluxo_Node-red
 
 Colocar no fluxograma do node - STT, TTS, WA.
 
