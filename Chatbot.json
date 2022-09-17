@@ -1,0 +1,1047 @@
+{
+  "intents": [
+    {
+      "intent": "acionarumalerta",
+      "examples": [
+        {
+          "text": "acionar"
+        },
+        {
+          "text": "Acionar um alerta"
+        },
+        {
+          "text": "alerta"
+        },
+        {
+          "text": "Denuncia"
+        },
+        {
+          "text": "Denunciar"
+        },
+        {
+          "text": "Poluição"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Agradecimento",
+      "examples": [
+        {
+          "text": "Muito obrigada!"
+        },
+        {
+          "text": "Muito Obrigado!"
+        },
+        {
+          "text": "Muito obrigado pela informação!"
+        },
+        {
+          "text": "Obrigada pela Compreensão!"
+        },
+        {
+          "text": "Obrigado!"
+        },
+        {
+          "text": "Valeu!"
+        },
+        {
+          "text": "Você ajudou muito!"
+        }
+      ],
+      "description": "agradecimento do cliente"
+    },
+    {
+      "intent": "BemVindo",
+      "examples": [
+        {
+          "text": "Boa noite"
+        },
+        {
+          "text": "Boa tarde"
+        },
+        {
+          "text": "Bom dia"
+        },
+        {
+          "text": "Eai"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "oi"
+        },
+        {
+          "text": "Ola"
+        },
+        {
+          "text": "Ooio"
+        }
+      ],
+      "description": "Oi"
+    },
+    {
+      "intent": "cadastro",
+      "examples": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "Cadastro"
+        },
+        {
+          "text": "Cadastro da conta"
+        },
+        {
+          "text": "Gostaria de fazer um cadastro de conta"
+        },
+        {
+          "text": "Gostaria de me cadastrar"
+        }
+      ],
+      "description": "Cadastro de conta"
+    },
+    {
+      "intent": "Caso",
+      "examples": [],
+      "description": ""
+    },
+    {
+      "intent": "Derramamentodeesgoto",
+      "examples": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "derramamento"
+        },
+        {
+          "text": "Derramamento de esgoto"
+        },
+        {
+          "text": "esgoto"
+        },
+        {
+          "text": "esgoto na agua"
+        },
+        {
+          "text": "esgoto na areia"
+        },
+        {
+          "text": "esgoto na praia"
+        },
+        {
+          "text": "sim"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Despedida",
+      "examples": [
+        {
+          "text": "flw"
+        },
+        {
+          "text": "leu"
+        },
+        {
+          "text": "Muito obrigado!"
+        },
+        {
+          "text": "Muito obrigado por ajudar o meio ambiente!"
+        },
+        {
+          "text": "Muito obrigado, salve o meio ambiente!"
+        },
+        {
+          "text": "obrigada"
+        },
+        {
+          "text": "Tchau"
+        },
+        {
+          "text": "valeu"
+        },
+        {
+          "text": "Volte sempre!"
+        }
+      ],
+      "description": "Se despedir do cliente"
+    },
+    {
+      "intent": "dicas",
+      "examples": [
+        {
+          "text": "cuidar do meio ambient"
+        },
+        {
+          "text": "Dicas"
+        },
+        {
+          "text": "Dicas para cuidar do meio ambiente"
+        },
+        {
+          "text": "meio ambiente"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "endereço",
+      "examples": [
+        {
+          "text": "Gostaria de retirar na loja, pode me passar o endereço?"
+        },
+        {
+          "text": "Gostaria do endereço"
+        },
+        {
+          "text": "Onde fica o endereço da loja principal?"
+        },
+        {
+          "text": "Poderia me passar o endereço por favor!"
+        },
+        {
+          "text": "Qual o endereço?"
+        }
+      ],
+      "description": "Falar o endereço da loja para a pessoa"
+    },
+    {
+      "intent": "foto",
+      "examples": [
+        {
+          "text": "não"
+        },
+        {
+          "text": "sim"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Imagem",
+      "examples": [
+        {
+          "text": "imagem"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "lixonaareia",
+      "examples": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "Areia"
+        },
+        {
+          "text": "Lixo areia"
+        },
+        {
+          "text": "Lixo na areia"
+        },
+        {
+          "text": "Lixo nas areias"
+        },
+        {
+          "text": "santos"
+        },
+        {
+          "text": "sim"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "lixonasaguas",
+      "examples": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "agua"
+        },
+        {
+          "text": "Aguas"
+        },
+        {
+          "text": "lixo agua"
+        },
+        {
+          "text": "Lixo nas aguas"
+        },
+        {
+          "text": "lixo no mar"
+        },
+        {
+          "text": "mar"
+        },
+        {
+          "text": "sim"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "saudacao",
+      "examples": [
+        {
+          "text": "Boa tarde!"
+        },
+        {
+          "text": "E ai cara!"
+        },
+        {
+          "text": "Oi, bom dia!"
+        },
+        {
+          "text": "Oi, seja bem vindo!"
+        },
+        {
+          "text": "Olá, como posso te ajudar?"
+        },
+        {
+          "text": "Salve, salve!"
+        },
+        {
+          "text": "Tudo bem?"
+        }
+      ],
+      "description": "intenção de saudar, cumprimentar alguem"
+    },
+    {
+      "intent": "sobreaempresa",
+      "examples": [
+        {
+          "text": "a empresa"
+        },
+        {
+          "text": "empresa"
+        },
+        {
+          "text": "sobre"
+        },
+        {
+          "text": "Sobre a empresa"
+        },
+        {
+          "text": "sobre empresa"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "cadastro",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "cadastro",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cadastro de Conta",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gostaria de fazer um cadastro",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Quero fazer um cadastro",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "cidade_região",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Barra Funda",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Barueri",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Berrini",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Boqueirão",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Butantã",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Caieiras",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Campo Limpo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Capão Redondo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Carapicuiba",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ceasa",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cidade Jardim",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cotia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Faria Lima",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Francisco Morato",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Franco da Rocha",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Grajaú",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guarulhos",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Guilhermina",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Imperatriz Leopoldina",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Itapevi",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jandira",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jaraguá",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jardim Silveira",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Lapa",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mairinque",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Moema",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Monguagua",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Morumbi",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Osasco",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pinheiros",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Piqueri",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pirituba",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Praia da Ilha das Couves",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Praia Grande",
+          "synonyms": [
+            "PG"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Quitauna",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Rebouças",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Santo Amaro",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Santos",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "São Paulo",
+          "synonyms": [
+            "SP"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "São Vicente",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ubatuba",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Várzea Paulista",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Vila Maria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Vila Olimpia",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "email",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "email",
+          "patterns": [
+            "\\b[A-Za-z0-9._%+-]+@([A-Za-z0-9-]+\\.)+[A-Za-z]{2,}\\b"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Poluição",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "poluição atmosférica",
+          "synonyms": [
+            " dióxido de enxofre",
+            "dióxido de nitrogênio",
+            "fumaça",
+            " monóxido de carbono",
+            "ozônio",
+            "partículas inaláveis"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "poluição das aguas",
+          "synonyms": [
+            "Fertilizantes agrícolas"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sim-não",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "não",
+          "synonyms": [
+            "nem",
+            "nop",
+            "nunca"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sim",
+          "synonyms": [
+            "aham",
+            "blz",
+            "certo",
+            "claro",
+            "ok",
+            "pode",
+            "uhum"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-currency",
+      "values": []
+    },
+    {
+      "entity": "telefone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "celular",
+          "patterns": [
+            "(\\d{2}) (\\d{5}-\\d{4}) ",
+            "(\\d{2}) (\\d{9})"
+          ]
+        },
+        {
+          "type": "patterns",
+          "value": "fixo",
+          "patterns": [
+            "(\\d{2}) (\\d{4}-\\d{4})"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https//www.chatbotmandy23.com.br",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " Olá. Meu nome é Sophie assistente virtual da SPraia , como posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1636552925448"
+      },
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "empresa",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Somos a empresa ZeniTI,  estamos a 2 anos no mercado cuidando do meio ambiente, nós prezamos pelo meio ambiente. Atualmente as praias de São Paulo vem sendo poluída drasticamente, sendo assim oferecemos a limpeza dos locais que forem denunciados.\nNós queremos salvar o planeta de forma fácil e rápida."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://lh4.googleusercontent.com/_N-mKMXE8hedzjZkxJPrOP1IBG43TAyjZppZKieYCiinNtxIvpgtfD7WUE9Zs_iJQvVE6E2EVxhbrgznXGyjcXbKlJnPg62V-tVOKUwjFr51-eHZbr4u-pAiW5KmOr2Tng=w1280",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#sobreaempresa",
+      "dialog_node": "node_10_1652744421577",
+      "previous_sibling": "node_6_1652703515169"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_7_1652286539381",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_7_1652286539381"
+      },
+      "conditions": "#Derramamentodeesgoto && @cidade_região",
+      "dialog_node": "node_10_1662518365077"
+    },
+    {
+      "type": "standard",
+      "title": "Comprimento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " Olá. Meu nome é Sophie assistente virtual da SPraia , como posso te ajudar?"
+              },
+              {
+                "text": "-Acionar um Alerta /  Denuncia"
+              },
+              {
+                "text": "- Dicas para cuidar do meio ambiente"
+              },
+              {
+                "text": "- Sobre a empresa\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#BemVindo",
+      "dialog_node": "node_10_1663375750267",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Cidades",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Estamos verificando seu caso, logo ele será resolvido, muito obrigado!\nSALVEOPLANETA!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://img.freepik.com/premium-vector/save-planet-smiley-green-earth_23-2148506420.jpg?w=2000",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_8_1636552921271",
+      "conditions": "@cidade_região:(Praia Grande) || @cidade_região:Guilhermina || @cidade_região:Boqueirão || @cidade_região:Santos ||        @cidade_região:(São Vicente) || @cidade_região:Monguagua || @cidade_região:Ubatuba || @cidade_região:(São Paulo)",
+      "dialog_node": "node_3_1662516796391",
+      "previous_sibling": "node_6_1652700743168"
+    },
+    {
+      "type": "standard",
+      "title": "opções",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "- Acionar um Alerta"
+              },
+              {
+                "text": "- Dicas para cuidar do meio ambiente"
+              },
+              {
+                "text": "- Sobre a empresa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "Bem-vindo",
+      "conditions": "#dicas",
+      "dialog_node": "node_4_1636552925448"
+    },
+    {
+      "type": "standard",
+      "title": "Agradecimento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De nada! Qualquer duvida estamos a disposição.\nAtendimento finalizado!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "source": "https://lh6.googleusercontent.com/MIt1UaEdMz4oQoz7rJ3VY9ocjyK3UwI36BOhiG2ON6orNmKeUkhan0mcUgdn6W6rEwERasPjh4aI04G5sbNqKzj7OkoZ72Wt7r5ywJT5PWJpkT5dl3QddOOANEcqV3IDiA=w1280",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Agradecimento",
+      "dialog_node": "node_5_1615465993640",
+      "previous_sibling": "node_10_1652744421577"
+    },
+    {
+      "type": "standard",
+      "title": "Derramamento de esgoto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Seja bem vindo ao nosso canal de Atendimento, verificamos que a denuncia será sobre derramamento de esgoto, poderia passar seu endereço por gentileza."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1636552921271",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_3_1662516796391"
+      },
+      "conditions": "#Derramamentodeesgoto",
+      "dialog_node": "node_6_1652700743168",
+      "previous_sibling": "node_7_1652700503713"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Não jogue lixo no chão. Carregue-o até a lixeira mais próxima. Ensine às crianças dando exemplo."
+              },
+              {
+                "text": "Não corte, nem pode árvores sem autorização. Poda drástica é PROIBIDA!!"
+              },
+              {
+                "text": "Não crie peixes sem licença. Nunca solte peixes nos rios, mesmo quando estiver bem intencionado."
+              },
+              {
+                "text": "Ensine às crianças amor e respeito pela natureza."
+              },
+              {
+                "text": "Recicle ou reaprove tudo o que puder."
+              },
+              {
+                "text": "Não desperdice água. esse é um dos recursos mais importantes e frágeis do planeta: feche torneiras, conserte vazamentos, não use mangueiras para para lavar calçadas, aproveite água de chuva"
+              },
+              {
+                "text": "Evite jogar materiais não degradáveis (plásticos ou outros) no ambiente."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://i0.wp.com/trabalhosparaescola.com.br/wp-content/uploads/2017/11/dicas-praticas-de-como-melhorar-o-meio-ambiente-5.jpg?fit=550%2C443&ssl=1",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#dicas",
+      "dialog_node": "node_6_1652703515169",
+      "previous_sibling": "node_8_1636552921271"
+    },
+    {
+      "type": "standard",
+      "title": "lixo nas aguas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Seja bem vindo ao nosso canal de Atendimento, verificamos que a denuncia será sobre lixo nas aguas, poderia passar seu endereço por gentileza,"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1636552921271",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_3_1662516796391"
+      },
+      "conditions": "#lixonasaguas",
+      "dialog_node": "node_7_1652286539381"
+    },
+    {
+      "type": "standard",
+      "title": "Lixo na areia",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Seja bem vindo ao nosso canal de Atendimento, verificamos que a denuncia será sobre lixo nas areias, poderia passar seu endereço por gentileza."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1636552921271",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_3_1662516796391"
+      },
+      "conditions": "#lixonaareia",
+      "dialog_node": "node_7_1652700503713",
+      "previous_sibling": "node_7_1652286539381"
+    },
+    {
+      "type": "standard",
+      "title": "Poluições",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Qual o tipo de alerta você gostaria de acionar?\n"
+              },
+              {
+                "text": "1 - Derramamento de esgoto"
+              },
+              {
+                "text": "2 - Lixo no mar"
+              },
+              {
+                "text": "3 - Lixo na areia"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#acionarumalerta",
+      "dialog_node": "node_8_1636552921271",
+      "previous_sibling": "node_10_1663375750267"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "sim"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Ajuda",
+  "language": "pt-br",
+  "description": "Essa skil ajuda os clientes com duvidas para achar o melhor produto para eles"
+}

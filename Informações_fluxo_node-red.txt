@@ -1,0 +1,19 @@
+Informações do Fluxo node-red
+
+Watson Assistant
+
+Assistant ID: 572bc848-08b9-4b35-9ad0-02e9d127c35f
+
+API key: qZFuDDmt7RQ_NERneV0eWjQSqOf7dzWvvQVrwy81kALT
+
+Speech To Text:
+
+URL: https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/b1bc63b5-f0bc-49a4-8299-0fdf46dc1130
+
+"apikey": "w02JK9Q0Uu-qysVGdRZKUL6DHOgWkWm1JM8OlRiKCO8N"
+
+Text to Speech
+
+URL: https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/ac4c1063-eafb-4ff6-9a55-676e83f88908
+
+"apikey": "otNLz67guD--PQNYWiZ6I5ZCVvbvbepXUfj7Mz9R3rh6"
