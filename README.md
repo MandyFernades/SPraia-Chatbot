@@ -1,4 +1,4 @@
-# SPraia-Chatbot
+# SPraia-Chatbot - ZeniTI
 
 1º Entrega – Disruptive Architectures Iot, Iob E Ia 
 
